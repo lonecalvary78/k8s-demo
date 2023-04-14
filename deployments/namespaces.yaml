@@ -1,6 +1,6 @@
 kind: Namespace
-apiVersion: V1
+apiVersion: v1
 metadata:
-   name: development-1
+   name: development
    lables:
-     name: development-1
+     name: development
