@@ -16,5 +16,3 @@ spec:
           image: ghcr.io/lonecalvary78/simple-hello-app:latest
           ports:
             - containerPort: 8080
-      imagePullSecrets:
-        - name: ghcrio-creds
