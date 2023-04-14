@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: V1
+metadata:
+   name: development
+   lables:
+     name: development
